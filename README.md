@@ -1,5 +1,3 @@
----
-
 # 🧠 CIFAR-10 Object Recognition using ResNet50
 
 **Repository Name:** `cifar10-object-recognition-resnet50`
@@ -30,9 +28,8 @@ Dataset used:
 ```
 📂 CIFAR10-Object-Recognition
 │
-├── DL_Project_4_CIFAR_10_Object_Recognition_using_ResNet50.ipynb   # Jupyter Notebook (Training + Evaluation)
-├── trained_model_resnet50.keras                                   # Saved trained model
-└── README.md                                                      # Project documentation
+├── Object_Recognition(Cifar-10).ipynb   # Jupyter Notebook (Training + Evaluation)
+└── README.md                            # Project documentation
 ```
 
 ---
@@ -55,13 +52,13 @@ pip install tensorflow numpy matplotlib pandas scikit-learn
 ### 3️⃣ Run the Notebook
 
 ```bash
-jupyter notebook DL_Project_4_CIFAR_10_Object_Recognition_using_ResNet50.ipynb
+jupyter notebook Object_Recognition(Cifar-10).ipynb
 ```
 
 This will train the **ResNet50** model and save the trained weights as:
 
 ```
-/kaggle/working/trained_model_resnet50.keras
+/kaggle/working/cifar10_trained_model.h5
 ```
 
 ---
