@@ -89,9 +89,9 @@ This will train the **ResNet50** model and save the trained weights as:
 
 ## 📈 Results
 
-* **Training Accuracy:** ~95%
-* **Validation Accuracy:** ~92%
-* **Test Accuracy:** ~91%
+* **Training Accuracy:** ~98%
+* **Validation Accuracy:** ~95%
+* **Test Accuracy:** ~94%
 * **Loss:** Consistently decreasing — stable training curve
 
 ---
